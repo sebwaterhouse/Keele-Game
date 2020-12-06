@@ -1,6 +1,6 @@
 # KeeleGame
 
-## This game is a 2D top down arcade game, with a keele theme.
+## This game is a 2D top down arcade game, with a keele theme developed in java.
 
 Our player will control a sneaky squirrel who has sunk into the Chancellor's building in order to eat all the food it can get its hands on.
 
